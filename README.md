@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**aljazceru/aljazceru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=aljazceru&count_private=true&show_icons=true&bg_color=ffffff00&text_color=666666&&hide_border=true"  alt="GitHub Stats" align="right" />
+<p align="left">
+  <samp>
+    Working on <a href="https://bolt.observer">bolt.observer</a><br>
+    Also on <a href="https://lightning-landscape.net">Lightning landscape</a><br>
+    Know also for <a href="https://nostr.net">nostr.net</a><br>
+    Running <a href="https://www.meetup.com/bitcoin-ljubljana/">Bitcoin Ljubljana</a><br>
+    Shitposting on npub1aljazgxlpnpfp7n5sunlk3dvfp72456x6nezjw4sd850q879rxqsthg9jp
+    Other stuff:<br>
+    - <a href="https://dlc.wiki">dlc.wiki</a> <br>
+    - <a href="https://www.lightning-network.tech/">lightning-network.tech</a>
+  </samp>
+</p>
