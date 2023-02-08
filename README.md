@@ -5,7 +5,7 @@
     Also on <a href="https://lightning-landscape.net">Lightning landscape</a><br>
     Know also for <a href="https://nostr.net">nostr.net</a><br>
     Running <a href="https://www.meetup.com/bitcoin-ljubljana/">Bitcoin Ljubljana</a><br>
-    Shitposting on npub1aljazgxlpnpfp7n5sunlk3dvfp72456x6nezjw4sd850q879rxqsthg9jp
+    Shitposting on npub1aljazgxlpnpfp7n5sunlk3dvfp72456x6nezjw4sd850q879rxqsthg9jp<br>
     Other stuff:<br>
     - <a href="https://dlc.wiki">dlc.wiki</a> <br>
     - <a href="https://www.lightning-network.tech/">lightning-network.tech</a>
