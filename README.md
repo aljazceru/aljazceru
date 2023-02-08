@@ -8,7 +8,6 @@
     Other stuff:<br>
     - <a href="https://dlc.wiki">dlc.wiki</a> <br>
     - <a href="https://www.lightning-network.tech/">lightning-network.tech</a><br><br>
-    
     Shitposting on npub1aljazgxlpnpfp7n5sunlk3dvfp72456x6nezjw4sd850q879rxqsthg9jp and <a href="https://twitter.com/aaaljaz">@aaaljaz</a><br>
   </samp>
 </p>
