@@ -6,6 +6,7 @@
     Know also for <a href="https://nostr.net">awesome-nostr/nostr.net</a><br>
     Started <a href="https://www.bitcoin-ljubljana.si">Bitcoin Ljubljana</a><br>
     Other stuff:<br>
+    - <a href="https://nostr.at">nostr.at</a> <br>
     - <a href="https://dlc.wiki">dlc.wiki</a> <br>
     - <a href="https://www.lightning-network.tech/">lightning-network.tech</a><br><br>
     Interested in bitcoin, decentralization, security and privacy.
