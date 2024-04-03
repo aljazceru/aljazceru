@@ -2,6 +2,7 @@
 <p align="left">
   <samp>
     Working on <a href="https://bolt.observer">bolt.observer</a><br>
+    And <a href="https://tidebinder.com">Tidebinder</a><br>
     And <a href="https://lightning-landscape.net">Lightning landscape</a><br>
     Know also for <a href="https://nostr.net">awesome-nostr/nostr.net</a><br>
     Started <a href="https://www.bitcoin-ljubljana.si">Bitcoin Ljubljana</a><br>
