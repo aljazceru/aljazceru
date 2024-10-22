@@ -1,10 +1,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=aljazceru&count_private=true&show_icons=true&bg_color=ffffff00&text_color=666666&&hide_border=true"  alt="GitHub Stats" align="right" />
 <p align="left">
   <samp>
-    Working on <a href="https://bolt.observer">bolt.observer</a><br>
+    Working on freedom tech at <a href="https://nostr.net">nostr.net</a><br>
+    Researching <a href="https://ungovernable.tech">ungovernable.tech</a><br>
     And <a href="https://tidebinder.com">Tidebinder</a><br>
-    And <a href="https://lightning-landscape.net">Lightning landscape</a><br>
-    Know also for <a href="https://nostr.net">awesome-nostr/nostr.net</a><br>
     Started <a href="https://www.bitcoin-ljubljana.si">Bitcoin Ljubljana</a><br>
     Other stuff:<br>
     - <a href="https://nostr.at">nostr.at</a> <br>
