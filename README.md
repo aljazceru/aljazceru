@@ -4,6 +4,7 @@
     Working on freedom tech at <a href="https://nostr.net">nostr.net</a><br>
     Researching <a href="https://ungovernable.tech">ungovernable.tech</a><br>
     Started <a href="https://www.bitcoin-ljubljana.si">Bitcoin Ljubljana</a><br>
+    Occasionaly writing something on <a href="https://disobey.dev">disobey.dev</a><br>
     Other stuff:<br>
     - <a href="https://nostr.at">nostr.at</a> <br>
     - <a href="https://dlc.wiki">dlc.wiki</a> <br>
