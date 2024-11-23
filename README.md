@@ -9,8 +9,8 @@
     - <a href="https://nostr.at">nostr.at</a> <br>
     - <a href="https://dlc.wiki">dlc.wiki</a> <br>
     - <a href="https://www.lightning-network.tech/">lightning-network.tech</a><br>
-    - <a href="https://pubky.tech/">pubky.tech</a><br><br>
-    - <a href="https://liquidnetwork.wiki/">liquidnetwork.wiki</a><br><br>
+    - <a href="https://pubky.tech/">pubky.tech</a><br>
+    - <a href="https://liquidnetwork.wiki/">liquidnetwork.wiki</a><br>
     - <a href="https://cryptoanarchy.info/">cryptoanarchy.info</a><br><br>
     Interested in bitcoin, decentralization, security and privacy.<br>
     Open for consulting. <br>
