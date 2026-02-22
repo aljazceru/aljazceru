@@ -3,15 +3,15 @@
   <samp>
     Cypherpunk in perpetual training. Occasionally writing on <a href="https://disobey.dev">disobey.dev</a>.<br>
     Building:<br>
-    - <a href="https://autonomica.xyz">Autonomica - an AI business that runs itself</a><br>
-    - <a href="https://enclava.ai">Enclava - confidential AI platform for business</a><br>
-    - <a href="https://nostr.net">nostr.net - entry point to nostr for everyone</a><br><br>
+    - <a href="https://autonomica.xyz">Autonomica</a> - an AI business that runs itself<br>
+    - <a href="https://enclava.ai">Enclava.ai</a> - confidential AI platform for business<br>
+    - <a href="https://nostr.net">nostr.net</a> - entry point to nostr for everyone<br><br>
     Other projects:<br>
-    - <a href="https://github.com/aljazceru/tailbait">TailBait - detect devices that are following you</a> <br>
-    - <a href="https://github.com/aljazceru/btcpayserver-breez-nodeless-spark"> BTCPay LN plugin for nodeless payments on Spark </a><br>
-    - <a href="https://github.com/autonomica-xyz/opencode-orchestrator"> Opencode orchestrator - control multiple opencode instances across diffrent machines through one agent</a> <br>
-    - <a href="https://speedreading.disobey.dev/">Simple speed reading app that takes the text you provide it and generates slides of just one word at a time</a><br>
-    - <a href="https://github.com/aljazceru/whisper-talk">Whisper-talk - System-wide voice dictation for Linux with Whisper backend</a><br><br>
+    - <a href="https://github.com/aljazceru/tailbait">TailBait</a> - detect devices that are following you</a> <br>
+    - <a href="https://github.com/aljazceru/btcpayserver-breez-nodeless-spark"> BTCPay LN Spark plugin</a> - accept lightning paymennts on BTCPay easily </a><br>
+    - <a href="https://github.com/autonomica-xyz/opencode-orchestrator"> Opencode orchestrator</a> - control multiple opencode instances across diffrent machines through one agent</a> <br>
+    - <a href="https://speedreading.disobey.dev/">speed reading app</a> - simple app that takes the text you provide it and generates slides of just one word at a time</a><br>
+    - <a href="https://github.com/aljazceru/whisper-talk">Whisper-talk</a> - System-wide voice dictation for Linux with Whisper backend</a><br><br>
     Other stuff:<br>
     - <a href="https://dlc.wiki">dlc.wiki</a> <br>
     - <a href="https://lightning-network.tech/">lightning-network.tech</a><br>
