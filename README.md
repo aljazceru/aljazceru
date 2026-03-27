@@ -8,6 +8,7 @@
     - <a href="https://nostr.net">nostr.net</a> - entry point to nostr for everyone<br><br>
     Other projects:<br>
     - <a href="https://github.com/aljazceru/tailbait">TailBait</a> - detect devices that are following you</a> <br>
+    - <a href="https://github.com/aljazceru/readstr">Readstr</a> -speed reading app that actually lets you read books</a> <br>
     - <a href="https://github.com/aljazceru/btcpayserver-breez-nodeless-spark"> BTCPay LN Spark plugin</a> - accept lightning paymennts on BTCPay easily </a><br>
     - <a href="https://github.com/autonomica-xyz/opencode-orchestrator"> Opencode orchestrator</a> - control multiple opencode instances across diffrent machines through one agent</a> <br>
     - <a href="https://speedreading.disobey.dev/">speed reading app</a> - simple app that takes the text you provide it and generates slides of just one word at a time</a><br>
