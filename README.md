@@ -6,12 +6,12 @@
     - <a href="https://autonomica.xyz">Autonomica</a> - Applied AI lab<br>
     - <a href="https://enclava.dev">Enclava.dev</a> - confidential application plataform where you can easily deploy your confidential applications<br>
     - <a href="https://enclava.ai">Enclava.ai</a> - confidential AI solutions for businesses<br>
-    - <a href="https://nostr.net">nostr.net</a> - entry point to nostr for everyone<br><br>
-    - <a href="https://confidentialinference.net/">ConfidentialInference.net</a> - All things confidential inference, providers, pricing, models. </a> <br>
+    - <a href="https://nostr.net">nostr.net</a> - entry point to nostr for everyone<br>
+    - <a href="https://confidentialinference.net">ConfidentialInference.net</a> - All things confidential inference, providers, pricing, models<br><br>
 
     Other projects:<br>
     - <a href="https://github.com/aljazceru/mango">Mango</a> -  Mango, confidential AI app with no vendor lock in </a> <br>
-        - <a href="https://github.com/aljazceru/tailbait">TailBait</a> - detect devices that are following you</a> <br>
+    - <a href="https://github.com/aljazceru/tailbait">TailBait</a> - detect devices that are following you</a> <br>
     - <a href="https://github.com/aljazceru/readstr">Readstr</a> -speed reading app that actually lets you read books</a> <br>
     - <a href="https://github.com/aljazceru/btcpayserver-breez-nodeless-spark"> BTCPay LN Spark plugin</a> - accept lightning paymennts on BTCPay easily </a><br>
     - <a href="https://github.com/autonomica-xyz/opencode-orchestrator"> Opencode orchestrator</a> - control multiple opencode instances across diffrent machines through one agent</a> <br>
