@@ -9,7 +9,9 @@ Cypherpunk in perpetual training. Occasionally writing on [disobey.dev](https://
 - [ConfidentialInference.net](https://confidentialinference.net) - all things confidential inference: providers, pricing, and models
 
 ## Other projects
-
+- [bolt.observer](https://bolt.observer) - Lightning explorer with stats and 3d visualization of the network 
+- [spark.observer](https://spark.observer) - Spark Bitcoin L2 explorer with network analytics
+- [ark.observer](https://ark.observer) - Explorer for both mainnet implementations of Ark on Bitcoin 
 - [Mango](https://github.com/aljazceru/mango) - confidential AI app with no vendor lock-in
 - [TailBait](https://github.com/aljazceru/tailbait) - detect devices that are following you
 - [Readstr](https://github.com/aljazceru/readstr) - speed-reading app that actually lets you read books
@@ -17,9 +19,6 @@ Cypherpunk in perpetual training. Occasionally writing on [disobey.dev](https://
 - [Opencode orchestrator](https://github.com/autonomica-xyz/opencode-orchestrator) - control multiple Opencode instances across different machines through one agent
 - [Speed reading app](https://speedreading.disobey.dev/) - simple app that takes the text you provide and generates slides of one word at a time
 - [Whisper-talk](https://github.com/aljazceru/whisper-talk) - system-wide voice dictation for Linux with a Whisper backend
-
-## Other stuff
-
 - [dlc.wiki](https://dlc.wiki)
 - [lightning-network.tech](https://lightning-network.tech/)
 - [pubky.tech](https://pubky.tech/)
